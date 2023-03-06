@@ -6,7 +6,7 @@ Custom implementation of Deep Layer Networks.
 - [ ] Batch
 - [ ] Loss Functions
   - [ ] Cross Entropy (For Softmax)
-  - [ ] Hinge Loss
+  - [x ] Hinge Loss
   - [x] MSE
 - [ ] Activation Functions
   - [x] RELU 
