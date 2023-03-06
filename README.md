@@ -9,7 +9,7 @@ Custom implementation of Deep Layer Networks.
   - [:white_check_mark:] Hinge Loss
   - [:white_check_mark:] MSE
 - [ ] Activation Functions
-  - [x] RELU 
+  - [:white_check_mark:] RELU 
   - [ ] Sigmoid
 - [ ] Initializations
   - [ ] Zero Initialization
